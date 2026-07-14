@@ -104,31 +104,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankit8003-pal&theme=tokyonight&margin-w=10"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-⭐ Fake Job Detection
-
-⭐ House Price Prediction
-
-⭐ COVID Data Analysis
-
-⭐ HR Analytics Dashboard
-
-⭐ Weather Application
-
-⭐ Portfolio Website
 
 ---
 
