@@ -93,18 +93,9 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ankit8003-pal&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit8003-pal&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
-
-# 🔥 GitHub Streak
-
 
 
  ✍️ Random Dev Quote
